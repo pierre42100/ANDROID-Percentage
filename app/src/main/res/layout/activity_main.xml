@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            style="@style/homeButtons"
+            android:text="@string/choix_presentation" />
+
+        <Button
+            style="@style/homeButtons"
+            android:text="@string/calcPercentWithValues"
+            android:id="@+id/calcPercentWithValuesButton"/>
+
+        <Button
+            style="@style/homeButtons"
+            android:text="@string/calcPercentOfChange"
+            android:id="@+id/calcPercentOfDifferenceButton"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/copyright" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pourcentage</string>
+    <string name="errorValueMustBeMoreThanZero">Erreur : Des valeur supérieures à 0 sont requise !</string>
+    <string name="valeurEchantillon">Valeur de l\'échantillon</string>
+    <string name="quantiteTotale">Quantité totale</string>
+    <string name="errorTarget">Destination des erreurs</string>
+    <string name="calculate">Calculer</string>
+    <string name="copyright">(c) Pierre Hubert 2016</string>
+    <string name="choix_presentation">Que voulez-vous calculer maintenant ?</string>
+    <string name="calcPercentWithValues"><![CDATA[ Un pourcentage avec ses valeurs (échantillon & total)]]></string>
+    <string name="retour">Retour</string>
+    <string name="calcPercentOfChange">Le pourcentage de différence entre deux valeurs.</string>
+    <string name="firstValue">Première valeur</string>
+    <string name="secondValue">Deuxième valeur</string>
+</resources>

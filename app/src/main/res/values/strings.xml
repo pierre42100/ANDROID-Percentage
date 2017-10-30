@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Percent</string>
+    <string name="errorValueMustBeMoreThanZero">Error  : The values must be greater than 0 !</string>
+    <string name="valeurEchantillon">Sample value</string>
+    <string name="quantiteTotale">Total Quantity</string>
+    <string name="errorTarget">Error target</string>
+    <string name="calculate">Calculate</string>
+    <string name="copyright">(c) Pierre Hubert 2016</string>
+    <string name="choix_presentation">What do you what to calculate now ?</string>
+    <string name="calcPercentWithValues"><![CDATA[ Percent with Values (sample & total value)]]></string>
+    <string name="retour">Back</string>
+    <string name="calcPercentOfChange">Percent of difference between two values.</string>
+    <string name="firstValue">First Value</string>
+    <string name="secondValue">Second Value</string>
+</resources>
